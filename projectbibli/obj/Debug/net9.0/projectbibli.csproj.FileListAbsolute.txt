@@ -1,0 +1,14 @@
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\bin\Debug\net9.0\projectbibli.exe
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\bin\Debug\net9.0\projectbibli.deps.json
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\bin\Debug\net9.0\projectbibli.runtimeconfig.json
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\bin\Debug\net9.0\projectbibli.dll
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\bin\Debug\net9.0\projectbibli.pdb
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.AssemblyInfoInputs.cache
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.AssemblyInfo.cs
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.csproj.CoreCompileInputs.cache
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.dll
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\refint\projectbibli.dll
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.pdb
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\projectbibli.genruntimeconfig.cache
+E:\Users\MathisHUARD\Cours - B2B\C#\projectbibli\projectbibli\obj\Debug\net9.0\ref\projectbibli.dll

@@ -1,0 +1,29 @@
+[
+  {
+    "titre": "Never Gonna Give You Up",
+    "auteur": "Rick Astley",
+    "annee": 1989,
+    "genre": "Rickrolled",
+    "editeur": "YouTube Prank",
+    "isbn": "123-1-12-12345-1",
+    "resume": "Never Gonna Let You Down"
+  },
+  {
+    "titre": "Le dictionnaire du quoicou",
+    "auteur": "Mathis",
+    "annee": 2024,
+    "genre": "Quoicou culture",
+    "editeur": "Quoicou larousse",
+    "isbn": "123-1-12-12345-2",
+    "resume": "C'est le quoicou dictionnaire de tout les quoicou mots !"
+  },
+  {
+    "titre": "Les conquêtes de Romain",
+    "auteur": "Alexandre Gouraud",
+    "annee": 2024,
+    "genre": "Développement personnel",
+    "editeur": "Basic Fit",
+    "isbn": "123-1-12-12345-3",
+    "resume": "Romain a toujours du mal à trouver une copine, il va donc tenter sa chance à la salle..."
+  }
+]
